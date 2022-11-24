@@ -36,7 +36,7 @@
 ### SCAN QR CODE
 
 
-<a href="https://replit.com/@DEVILL-MASCOT/ANYA-PIKA-MD2"><img src="./HomeScreen/AnyaQRscan.png" align="center" width="90" />
+<a href="http://Testing.jetus-hack.repl.co"><img src="./HomeScreen/AnyaQRscan.png" align="center" width="90" />
 </div>
 <p align="center">
 </p>
